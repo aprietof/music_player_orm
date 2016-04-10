@@ -1,12 +1,12 @@
 #Read Me
 
-##OBJECTIVES
+###OBJECTIVES
 
 1. Map a Ruby class to a database table and an instance of a class to a table row.
 2. Write code that maps a Ruby class to a database table.
 3. Write code that inserts data regarding an instance of a class into a database table row.
 
-## MAPPING A CLASS TO A TABLE
+###MAPPING A CLASS TO A TABLE
 
 When building an ORM to connect our Ruby program to a database, we equate a class with a database table and the instances that the class produces to rows in that table.
 
